@@ -15,7 +15,7 @@ body {
 }
 
 .header-super-sano {
-  background: linear-gradient(90deg, #388e3c 60%, #a5d6a7 100%);
+  background: linear-gradient(90deg, #096d00 60%, #a5d6a7 100%);
   color: white;
   box-shadow: 0 4px 12px rgba(0,0,0,0.10);
   position: fixed;
@@ -35,7 +35,7 @@ body {
   width: 180px;
   box-shadow: 0 2px 8px rgba(67,160,71,0.18);
   margin-left: 24px;
-  margin-right: auto;
+  margin-right: 250px;
 }
 
 
@@ -75,10 +75,10 @@ header div{
 
 
 .footer-super-sano {
-  background: linear-gradient(135deg, #0b1a0b, #66bb6a, #a5d6a7, #d0f0c0);
+  background: linear-gradient(90deg, #096d00 60%, #a5d6a7 100%);
   background-color: #e8f5e9;
   font-size: 0.95rem;
-  color: #2e7d32;
+  color: white;
   box-shadow: 0 -2px 6px rgba(0, 0, 0, 0.05);
 }
 
